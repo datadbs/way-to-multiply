@@ -30,6 +30,5 @@ else:
 
 #print(a_list)
 #print(b_list)
-
 # 결과 출력
 print(sum(b_list))
